@@ -1,2 +1,1 @@
-# firstgit
-cli git practice
+i am read me file. thank you
